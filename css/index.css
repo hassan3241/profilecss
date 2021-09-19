@@ -1,0 +1,64 @@
+/* CSScfile --> index.html */
+/* (1) Tag selector */
+body{
+    background-color: #FCFFA6;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    /*background-color: #F5E8C7;*/
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-weight: normal;
+    /*background-color: #F5E8C7;*/
+}
+h4{
+    text-align: center;
+    font-family: Aclonica;
+    font-weight: normal;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+th{
+    width: 33.33%; 
+    vertical-align: top;
+}
+/* (2) Class Selector */
+.p-Aboutme{
+    font-weight:normal; 
+    text-align: justify;
+}
+.p-Name{
+    font-weight:normal;
+}
+.p-Footer{
+    text-align: center;
+}
+.name{
+    text-decoration: underline;
+    color: blue; 
+
+}
+/* (3) Id Selector */        
+#th-Details{
+    text-align: left;
+}
+
+/* div */
+.top-container{
+  background-color:#F5E8C7;
+
+}
+.table-menu td:hover{
+    background-color: #DEBA9D;
+}
+.table-content h2{
+    background-color: #9E7777;
+}
+.table-content img {
+    background-color: #F5E8C7;
+}
